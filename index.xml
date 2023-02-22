@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Yong&#39;s Blog</title>
-    <link>https://examplesite.com/</link>
+    <link>https://zyede.github.io/</link>
     <description>Recent content on Yong&#39;s Blog</description>
     <image>
       <title>Yong&#39;s Blog</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://zyede.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://zyede.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>zy.de@outlook.com (Yong)</managingEditor>
     <webMaster>zy.de@outlook.com (Yong)</webMaster>
-    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zyede.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rust 解决所有权问题的几种方法</title>
-      <link>https://examplesite.com/posts/rust/</link>
+      <link>https://zyede.github.io/posts/rust/</link>
       <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
       <author>zy.de@outlook.com (Yong)</author>
-      <guid>https://examplesite.com/posts/rust/</guid>
+      <guid>https://zyede.github.io/posts/rust/</guid>
       <description>什么是所有权 所有权是 Rust 中最重要的特性之一, 那么什么是所有权呢?
 在一些开发语言如 Python 中，有 GC (垃圾回收机制)，这是语言本身提供的内存管理机制，而另一些语言如 C、C++ 则依赖开发人员手动管理内存。具有 GC 的语言大多存在性能问题，而依赖开发者手动管理内存的语言编写的程序往存在难以发现的内存问题，Rust 则使用了一种全新的思路：将内存管理的重担交给编译器，而所有权就是编译器用来管理内存的工具之一。
 通俗地，便于理解地解释所有权：你租的房子，房东具有所有权，而你只有使用权，无论你如何折腾，都不能改变该房子的归属。
@@ -32,19 +32,19 @@ in:32 out:32 这么看是不是很正常，一个变量在传入函数之后仍�
     
     <item>
       <title>About</title>
-      <link>https://examplesite.com/about/</link>
+      <link>https://zyede.github.io/about/</link>
       <pubDate>Wed, 16 Nov 2022 16:41:21 +0800</pubDate>
       <author>zy.de@outlook.com (Yong)</author>
-      <guid>https://examplesite.com/about/</guid>
+      <guid>https://zyede.github.io/about/</guid>
       <description>我的个人博客 请联系我 email: zy.de@outlook.com</description>
     </item>
     
     <item>
       <title>Hugo仓库设置与推送</title>
-      <link>https://examplesite.com/posts/hugo%E4%BB%93%E5%BA%93%E8%AE%BE%E7%BD%AE%E4%B8%8E%E6%8E%A8%E9%80%811/</link>
+      <link>https://zyede.github.io/posts/hugo%E4%BB%93%E5%BA%93%E8%AE%BE%E7%BD%AE%E4%B8%8E%E6%8E%A8%E9%80%811/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       <author>zy.de@outlook.com (Yong)</author>
-      <guid>https://examplesite.com/posts/hugo%E4%BB%93%E5%BA%93%E8%AE%BE%E7%BD%AE%E4%B8%8E%E6%8E%A8%E9%80%811/</guid>
+      <guid>https://zyede.github.io/posts/hugo%E4%BB%93%E5%BA%93%E8%AE%BE%E7%BD%AE%E4%B8%8E%E6%8E%A8%E9%80%811/</guid>
       <description>背景：
 我在使用 hugo + github page 来构建我的博客，最近新换了一台电脑，打算把旧电脑上的 Hugo project 迁移过来，就是那个使用 hugo new site 生成的目录。废了一番劲终于找到了，是的我已经有一段时间没有更新我的博客了。
 由此我开始思考如何合理保存我的整个 blog 项目， 因为只放在本地磁盘上 会忘记存放位置、磁盘损坏 和文件丢失的风险。作为程序员，我很自然地就想到 了 git，于是便有了这篇文章。

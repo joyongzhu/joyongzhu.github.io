@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/posts/</loc>
+    <loc>https://zyede.github.io/posts/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/rust/</loc>
+    <loc>https://zyede.github.io/tags/rust/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/rust/</loc>
+    <loc>https://zyede.github.io/posts/rust/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://zyede.github.io/tags/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://zyede.github.io/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/about/</loc>
+    <loc>https://zyede.github.io/about/</loc>
     <lastmod>2022-11-16T16:41:21+08:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/hugo/</loc>
+    <loc>https://zyede.github.io/tags/hugo/</loc>
     <lastmod>2022-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/hugo%E4%BB%93%E5%BA%93%E8%AE%BE%E7%BD%AE%E4%B8%8E%E6%8E%A8%E9%80%811/</loc>
+    <loc>https://zyede.github.io/posts/hugo%E4%BB%93%E5%BA%93%E8%AE%BE%E7%BD%AE%E4%B8%8E%E6%8E%A8%E9%80%811/</loc>
     <lastmod>2022-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/archives/</loc>
+    <loc>https://zyede.github.io/archives/</loc>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://zyede.github.io/categories/</loc>
   </url><url>
-    <loc>https://examplesite.com/series/</loc>
+    <loc>https://zyede.github.io/series/</loc>
   </url>
 </urlset>
