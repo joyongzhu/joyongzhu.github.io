@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://joyong.me/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joyong.me/tags/rust/</loc>
+    <loc>/tags/rust/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joyong.me/posts/rust/</loc>
+    <loc>/posts/rust/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joyong.me/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joyong.me/</loc>
+    <loc>/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joyong.me/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2022-11-16T16:41:21+08:00</lastmod>
   </url><url>
-    <loc>https://joyong.me/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2022-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joyong.me/posts/hugo%E4%BB%93%E5%BA%93%E8%AE%BE%E7%BD%AE%E4%B8%8E%E6%8E%A8%E9%80%811/</loc>
+    <loc>/posts/hugo%E4%BB%93%E5%BA%93%E8%AE%BE%E7%BD%AE%E4%B8%8E%E6%8E%A8%E9%80%811/</loc>
     <lastmod>2022-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joyong.me/archives/</loc>
+    <loc>/archives/</loc>
   </url><url>
-    <loc>https://joyong.me/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://joyong.me/series/</loc>
+    <loc>/series/</loc>
   </url>
 </urlset>
