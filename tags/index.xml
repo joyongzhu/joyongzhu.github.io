@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Yong&#39;s Blog</title>
-    <link>https://zyede.github.io/tags/</link>
+    <link>https://joyongzhu.github.io/tags/</link>
     <description>Recent content in Tags on Yong&#39;s Blog</description>
     <image>
       <title>Yong&#39;s Blog</title>
-      <url>https://zyede.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://zyede.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://joyongzhu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://joyongzhu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>zy.de@outlook.com (Yong)</managingEditor>
     <webMaster>zy.de@outlook.com (Yong)</webMaster>
-    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zyede.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://joyongzhu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rust</title>
-      <link>https://zyede.github.io/tags/rust/</link>
+      <link>https://joyongzhu.github.io/tags/rust/</link>
       <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
       <author>zy.de@outlook.com (Yong)</author>
-      <guid>https://zyede.github.io/tags/rust/</guid>
+      <guid>https://joyongzhu.github.io/tags/rust/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://zyede.github.io/tags/hugo/</link>
+      <link>https://joyongzhu.github.io/tags/hugo/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       <author>zy.de@outlook.com (Yong)</author>
-      <guid>https://zyede.github.io/tags/hugo/</guid>
+      <guid>https://joyongzhu.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
